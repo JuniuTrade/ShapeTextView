@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ShapeTextView">
+        <attr name="radius" format="float" />
+        <attr name="bottom_left_radius" format="float" />
+        <attr name="bottom_right_radius" format="float" />
+        <attr name="top_left_radius" format="float" />
+        <attr name="top_right_radius" format="float" />
+        <attr name="background_color" format="color" />
+    </declare-styleable>
+
+</resources>
